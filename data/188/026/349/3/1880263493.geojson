@@ -1,0 +1,123 @@
+{
+  "id": 1880263493,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2023-09-01",
+    "date:cessation_upper": "2023-09-01",
+    "date:inception_lower": "2023-09-01",
+    "date:inception_upper": "2023-09-01",
+    "edtf:cessation": "2023-08-31T21:44:32-07:00",
+    "edtf:inception": "2023-08-31T21:44:32-07:00",
+    "flysfo:uuid": "d3a0442e-7a42-11e7-bb31-be2e44b06b34",
+    "flysfo:waittime": {
+      "checkpoint_name": "Checkpoint A",
+      "checkpoint_uuid": "d3a0442e-7a42-11e7-bb31-be2e44b06b34",
+      "current_processing_rate": 0,
+      "open_screening_queues": 0,
+      "prescreening_queues": [
+        {
+          "average_time": 0,
+          "current_processing_rate": 0,
+          "day_pax_count": 0,
+          "day_time_open": 0,
+          "is_open": "",
+          "max_processing_rate": 0,
+          "screening_queue_name": "",
+          "total_exit_count": 92366
+        },
+        {
+          "average_time": 0,
+          "current_processing_rate": 0,
+          "day_pax_count": 0,
+          "day_time_open": 0,
+          "is_open": "",
+          "max_processing_rate": 0,
+          "screening_queue_name": "",
+          "total_exit_count": 26324
+        },
+        {
+          "average_time": 0,
+          "current_processing_rate": 0,
+          "day_pax_count": 0,
+          "day_time_open": 0,
+          "is_open": "",
+          "max_processing_rate": 0,
+          "screening_queue_name": "",
+          "total_exit_count": 3799
+        }
+      ],
+      "screening_queues": [],
+      "updated_at": "2023-08-31T21:44:32.626-0700"
+    },
+    "geom:area": 0,
+    "geom:bbox": "-122.388764,37.614441,-122.388764,37.614441",
+    "geom:latitude": 37.614441197884766,
+    "geom:longitude": -122.38876387588043,
+    "mz:is_current": 0,
+    "sfomuseum:placetype": "waittime",
+    "src:geom": 0,
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588469,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1763588473,
+      1763588369,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1693543516,
+    "wof:geomhash": "afe25845e9d6de9ec20733091b137d11",
+    "wof:hierarchy": [
+      {
+        "[\"waittime\"]_id": 1880263493,
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1763588473,
+        "wing_id": 1763588369
+      },
+      {
+        "[\"waittime\"]_id": 1880263493,
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1763588473,
+        "wing_id": 1763588369
+      }
+    ],
+    "wof:id": 1880263493,
+    "wof:lastmodified": 1693543516,
+    "wof:name": "Checkpoint A wait times (Thu, 31 Aug 2023 21:44:32 -0700)",
+    "wof:parent_id": 1763588473,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "waittime"
+    ],
+    "wof:repo": "sfomuseum-data-checkpoints-2023",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38876387588043,
+    37.614441197884766,
+    -122.38876387588043,
+    37.614441197884766
+  ],
+  "geometry": {"coordinates":[-122.38876387588043,37.614441197884766],"type":"Point"}
+}
